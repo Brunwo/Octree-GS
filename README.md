@@ -6,6 +6,8 @@
 
 ## News
 
+**[2024.04.04]** added Google Colab version : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Brunwo/Octree-GS/blob/main/Octree_gaussian.ipynb)
+
 **[2024.04.01]** 🎈👀 The [viewer](https://github.com/city-super/Octree-GS/tree/main/SIBR_viewers) for Octree-GS is available now. 
 
 **[2024.04.01]** We release the code.
